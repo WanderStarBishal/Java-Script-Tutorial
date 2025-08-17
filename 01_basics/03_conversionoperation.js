@@ -23,3 +23,19 @@ let booleanLoggedIn = Boolean(isLoggedIn);
 
 let someNumber = 30;
 
+
+// *********************OPERATIONS***************************
+
+let str1 = 3;
+let str2 = 4;
+let str3 = str1 + str2;
+// console.log(str3);
+
+// console.log(3 + 4);
+// console.log(3 * 4);
+// console.log(3 - 4);
+// console.log(3 / 4);
+
+console.log(+true);
+console.log(+"");
+
