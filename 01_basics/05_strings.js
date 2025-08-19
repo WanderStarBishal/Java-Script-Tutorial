@@ -19,4 +19,4 @@ console.log(url.replace('%20','_'));
 
 console.log(url.includes("Keshav Chudad"));
 
-console.log(`$(gamename) dene aa gaya hai bahana mar ke video here : $(url) `);
+`$(gamename) dene aa gaya hai bahana mar ke video here : $(url) `
